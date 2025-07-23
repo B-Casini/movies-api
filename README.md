@@ -2,7 +2,8 @@ Movies API — FastAPI
 
 Just a small API I made with FastAPI to manage a list of movies.
 
-What it does:
+What it does:             
+
 -Shows all movies
 
 -Filters movies by category
